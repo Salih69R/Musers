@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Musers</string>
+    <string name="title_activity_login">Log in</string>
+
+
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_mobile">Mobile number</string>
+    <string name="prompt_fullname">Full Name</string>
+
+    <string name="action_sign_in">Sign in</string>
+    <string name="register">Register</string>
+
+
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <string name="title_discover">discover</string>
+    <string name="title_home">home</string>
+    <string name="title_post">post</string>
+    <string name="title_notifications">notifications</string>
+    <string name="title_profile">profile</string>
+
+</resources>
